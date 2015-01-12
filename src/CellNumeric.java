@@ -27,4 +27,4 @@ public class CellNumeric extends Cell {
     }
     return inputString;
   }
-}
+} 
