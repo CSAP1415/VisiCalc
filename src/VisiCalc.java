@@ -34,4 +34,4 @@ public class VisiCalc {
 		System.out.println("A3 = " + sp.getCell("A3").getInputValue());
 		System.out.println("B4 = " + sp.getCell("B4").getInputValue());
 	}
-}
+} 
