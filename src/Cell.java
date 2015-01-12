@@ -16,4 +16,4 @@ public abstract class Cell {
 
   // Get the string that should be displayed in the spreadsheet.
   public abstract String getDisplayString();
-}
+} 
