@@ -22,7 +22,7 @@ public class CellDate extends Cell {
     } catch (ParseException e) {
       displayString = "<empty>";
     }
-    return displayString;
+    return displayString; 
   }
   
   public String getDisplayString() {
